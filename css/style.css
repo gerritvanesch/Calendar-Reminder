@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+table, tbody, td {
+	border: 1px solid #DDD;
+	text-align: center;
+}	
+
+.weekend {
+	background: #CCC;
+}
+
+.today {
+	background: #000;	
+}
+
+.today a {
+	color: #FFF;
+	display: block;
+}
+
+a {
+	color: #000;
+	display: block;	
+}
+
+.grey {
+	color: #999;	
+}
+
+#reminder {
+	font-size: 20px;	
+}
+
+.f {
+	border: 1px solid #0F0;
+}
+
+.p {
+	border: 1px solid #00F;	
+}
+
+.n {
+	border: 1px solid #F00;	
+}
+
+.k {
+	border: 1px solid #DDD;	
+}
